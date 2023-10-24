@@ -1,0 +1,15 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2147_Galopeira\bin\Debug\net6.0\2147_Galopeira.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2147_Galopeira\bin\Debug\net6.0\2147_Galopeira.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2147_Galopeira\bin\Debug\net6.0\2147_Galopeira.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2147_Galopeira\bin\Debug\net6.0\2147_Galopeira.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2147_Galopeira\bin\Debug\net6.0\2147_Galopeira.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2147_Galopeira\obj\Debug\net6.0\2147_Galopeira.csproj.AssemblyReference.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2147_Galopeira\obj\Debug\net6.0\2147_Galopeira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2147_Galopeira\obj\Debug\net6.0\2147_Galopeira.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2147_Galopeira\obj\Debug\net6.0\2147_Galopeira.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2147_Galopeira\obj\Debug\net6.0\2147_Galopeira.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2147_Galopeira\obj\Debug\net6.0\2147_Galopeira.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2147_Galopeira\obj\Debug\net6.0\refint\2147_Galopeira.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2147_Galopeira\obj\Debug\net6.0\2147_Galopeira.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2147_Galopeira\obj\Debug\net6.0\2147_Galopeira.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\2147_Galopeira\obj\Debug\net6.0\ref\2147_Galopeira.dll
